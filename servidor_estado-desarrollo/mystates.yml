@@ -1,0 +1,8 @@
+server:
+  port: 8081
+status_close:
+  value: Cerrado
+status_open:
+  value: Abierto
+ status_half_open:
+  value: Semiabierto
